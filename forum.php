@@ -1,5 +1,6 @@
 <?php
 $message="Bienvenue!";
-$nom="employé";
-echo $message.'cher'.$nom;
+$nom="visiteur";
+$site="sur mon site";
+echo $message.'Cher'.$nom.''.$site;
 ?>
